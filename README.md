@@ -2,7 +2,7 @@
     if height % 2 == 0:
         height += 1`
 
-pada bagian ini merupakan insialisasi dan pembuatan function yang mana akan digunakan untuk kalkulasi dari user input. `height % 2 == 0` kode ini berguna untuk mengecek niali input height tersebut apakah angka genap,
+pada bagian ini merupakan insialisasi dan pembuatan function yang mana akan digunakan untuk kalkulasi dari user input. `height % 2 == 0` kode ini berguna untuk mengecek nial input height tersebut apakah angka genap,
 jika angka genap maka hasil dari modulus 2 akan selalu 0, ketika angka tersebut 0 maka value height akan ditambah 1 sehingga menjadi angka ganjil.
 
 `for i in range(1, height + 1, 2):
